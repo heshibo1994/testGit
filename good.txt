@@ -1,0 +1,14 @@
+a
+b
+c
+d
+EEEEEEEEEEEEEEE
+我在这里修改了一行
+FFFFFFFFFFFFFFF
+gggggggggg-----在hot-fix分支上的修改
+
+测试冲突-----mster分支
+测试远程仓库
+
+
+开发者2：222222222222222222222222222222哈哈哈哈哈哈
